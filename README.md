@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhijith-Upadhya
 - 👀 I’m interested in Data Analysis and Visualization
 - 🌱 I’m currently learning Tableau, SQL, and R Programming
-- 💞️ I’m looking to collaborate on R Programming
+- 💞️ I’m looking to collaborate on R
 - 📫 How to reach me abhijith.upadhya27@gmail.com/ https://www.linkedin.com/in/abhijithupadhya/ / +91 7760618161 
 
 <!---
